@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learn-react-with-ts/static/css/main.964fdded.css",
+    "main.js": "/learn-react-with-ts/static/js/main.c5207fae.js",
+    "index.html": "/learn-react-with-ts/index.html",
+    "main.964fdded.css.map": "/learn-react-with-ts/static/css/main.964fdded.css.map",
+    "main.c5207fae.js.map": "/learn-react-with-ts/static/js/main.c5207fae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.c5207fae.js"
+  ]
+}
